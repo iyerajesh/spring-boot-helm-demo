@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-boot-helm-demo
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
